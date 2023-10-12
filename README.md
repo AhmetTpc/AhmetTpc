@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmettpc&label=Profile%20views&color=0e75b6&style=flat" alt="ahmettpc" /> </p>
 
-- 🌱 I’m currently learning **Kubernetes and Docker and Nvidia Triton Inference Server**
+- 🌱 I’m currently learning ** Docker, Python, Django and React **
 
 - 📫 How to reach me **ahmttpc14@gmail.com**
 
